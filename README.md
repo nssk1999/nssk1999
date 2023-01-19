@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [nssk1999.github.io](https://github.com/nssk1999/nssk1999.github.io)
 
-- 🌱 I’m currently learning **Java Full Stack +springboot+ micro services**
+- 🌱 I’m currently learning **Java Full Stack +SpringBoot+ micro services**
 
 <!---  - 👯 I’m looking to collaborate on [ACM-Main-Page](https://github.com/AdityaManikanth2810/ACM-Main-Page) -->
 
-- 🤝 I’m looking for help with [Claaso-schedule](https://github.com/nssk1999/claaso-schedule)
+- 🤝 I’m looking for help with [Music-Genre-Classification](https://github.com/nssk1999/Music-Genre-Classification-Django)
 
 - 👨‍💻 All of my projects are available at [http://nssk1999.github.io/](http://nssk1999.github.io/)
 
